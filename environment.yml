@@ -1,0 +1,7 @@
+name: python_workshop
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+
+  - pytest
