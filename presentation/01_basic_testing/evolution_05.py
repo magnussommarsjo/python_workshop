@@ -10,4 +10,4 @@ def test_my_div():
 
 if __name__ == "__main__":
     import pytest
-    pytest.
+    pytest.main(args = ['presentation/01_basic_testing/evolution_05.py'])
